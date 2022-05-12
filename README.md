@@ -1,6 +1,7 @@
 # Getaways staff management web app
 
 Tailor-made internal software to be used by a small tourism-related organization. 
+This has been developed in 2020.
 
 
 ## Tech Stack
