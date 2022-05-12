@@ -1,0 +1,9 @@
+LOCAL
+
+http://localhost/Getaways-staff-management-system
+
+PUBLIC
+
+https://www.vaggelis-projects.site/getaways-staff-management-system
+
+http://getaways.byethost8.com/getaways-staff-management-system
